@@ -1,6 +1,6 @@
 # Hi, I'm Ishita Verma 👋
 
-**Fintech product leader & founder** based in Dubai, UAE. At work, I build financial infrastructure from scratch — lending stacks, credit models, embedded finance — and ship them in regulated markets. Outside of work, I build OSs for senior leaders looking to excel in an AI-native world.
+**Fintech product leader & founder** based in Dubai, UAE. At work, I build financial infrastructure from scratch — lending stacks, credit models, embedded finance — and ship them in regulated markets. Outside of work, I build products and operating systems for senior leaders looking to excel in an AI-native world.
 
 ---
 
